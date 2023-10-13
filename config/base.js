@@ -2,7 +2,7 @@ export const CONFIG = {
   name: '橙冰蓝',
   enName: 'Recle',
   siteName: '橙冰蓝的小屋',
-  description: '享受自由，迎接挑战。用文字感染人心，启发更多人。',
+  description: '风带来故事的种子，时间使其发芽。。',
   articleDescription: '观察生活，关注科技，体会人文，热爱生活。',
   blogAnnouncement: '小屋正在施工中🚧',
   keywords: [
